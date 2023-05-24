@@ -1,0 +1,41 @@
+.title{
+    background-color:rgb(35, 35, 106);
+    color: white;
+    text-align: center;
+    font-size: 75px;
+    font-family: Open Sans;
+    
+    /*font-weight:800; not working*/
+}
+
+.sections{
+    background-color: rgb(86, 86, 177);
+    color: white;
+    font-family: Open Sans;
+    font-size: 30px;
+    font-weight:800px;
+    list-style-position: inside;
+    list-style-type: upper-roman;
+    height: 400px;
+    border-top: 3px dashed white;
+
+}
+.rowsside{
+    height:350px;
+    border-top: 2px solid black;
+    /*how to align to top?*/
+}
+
+h7{
+    color: grey;
+}
+
+li{
+    list-style-type: disc;
+}
+
+
+
+
+
+
